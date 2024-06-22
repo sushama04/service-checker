@@ -1,0 +1,6 @@
+Service : VSS is currently stopped, should be Running
+Setting VSS to Running
+Action failed: Service VSS is still stopped, should be Running
+Service : Spooler is currently running, should be Stopped
+Setting Spooler to Stopped
+Action failed: Service Spooler is still running, should be Stopped
